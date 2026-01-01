@@ -12,6 +12,15 @@ The project includes:
 
 📌 Tech Stack: Python, Pandas, Scikit-Learn, Streamlit
 
+📦 Model File (Download)
+
+The trained model file (`bank.pkl`) is larger than GitHub’s upload limit, so it’s hosted externally.
+
+👉 **[Download bank.pkl from Google Drive](https://drive.google.com/file/d/1xtdSMh9vvAre5gZeK33W5Msd3BU0kt9-/view?usp=sharing)**
+
+After downloading, place the file in the project folder (same directory as `app.py`) before running the Streamlit app.
+
+
 📂 Project Structure
 
 | File | Description |
@@ -21,3 +30,21 @@ The project includes:
 | `bank.csv` | Dataset used for model training |
 | `main.ipynb` | Model training & experimentation notebook |
 | `requirements.txt` | Project dependencies |
+
+## 🚀 How to Run the Project
+
+1️⃣ Install the required libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+2️⃣ Download the model file and place it in the project folder
+
+➡️ `bank.pkl` must be in the same directory as `app.py`
+
+3️⃣ Run the Streamlit app
+
+```bash
+streamlit run app.py
+```
