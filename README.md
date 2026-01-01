@@ -11,3 +11,13 @@ The project includes:
 - Deployment as an interactive Streamlit web app
 
 📌 Tech Stack: Python, Pandas, Scikit-Learn, Streamlit
+
+📂 Project Structure
+
+| File | Description |
+|------|------------|
+| `app.py` | Streamlit web application |
+| `bank.pkl` | Trained ML model + encoder + scaler |
+| `bank.csv` | Dataset used for model training |
+| `main.ipynb` | Model training & experimentation notebook |
+| `requirements.txt` | Project dependencies |
