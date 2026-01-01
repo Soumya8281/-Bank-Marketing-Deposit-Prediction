@@ -1,4 +1,7 @@
-I developed a "Bank Marketing Prediction System" that predicts whether a customer will subscribe to a term deposit based on historical marketing campaign data.
+🏦 Bank Marketing Deposit Prediction — Machine Learning Project
+
+This project predicts whether a customer will subscribe to a term deposit based on bank marketing campaign data.  
+It includes a trained ML model and an interactive Streamlit web app for real-time prediction.
 
 The project includes:
 - Data cleaning & preprocessing
